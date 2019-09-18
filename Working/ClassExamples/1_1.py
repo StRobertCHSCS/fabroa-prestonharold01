@@ -13,4 +13,3 @@ print("His shoes are", colour)
 print("His pants are", colour)
 hc = "violet"
 print("his hair is", hc)
-print("matei is", colour)
